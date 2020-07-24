@@ -7,6 +7,16 @@ It works like this:
 
 It does this every iteration until it's finished.
 
+Requirements
+============
+__Numpy__
+
+__pathlib__
+
+__moviepy__
+
+__PIL__
+
 Example(s):
 ===========
 
