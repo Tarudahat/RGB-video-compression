@@ -4,6 +4,7 @@
 This is a simple python project for making video files smaller.
 It works like this:
 ![img](https://github.com/Tarudahat/RGB-video-compression/blob/master/imgs-%26-example/how-it-works.jpg)
+
 It does this every iteration until it's finished.
 
 Example(s):
